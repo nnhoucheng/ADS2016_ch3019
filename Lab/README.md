@@ -1,3 +1,1 @@
-# Lab
-
-On class practice
+# Lab Practice
